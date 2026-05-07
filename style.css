@@ -142,3 +142,14 @@ tr:hover {
     padding-top: 20px;
     border-top: 2px solid #eee;
 }
+
+
+footer  a{
+    text-align: center;
+    display: block;
+
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+
+}

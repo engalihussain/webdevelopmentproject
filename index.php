@@ -64,6 +64,10 @@
             <source src="resturant.mp4" type="video/mp4">
         </video>
     </div>
+
+    <footer>
+        <a href="https://google.com" target="_blank">Google</a>
+    </footer>
 </div>
 
 <script>
