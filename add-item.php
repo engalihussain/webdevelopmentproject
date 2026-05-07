@@ -8,7 +8,7 @@
 <body>
 
 <header>
-    <h1>مطعم بيشة</h1>
+    <h1 style="color: white;">مطعم بيشة</h1>
     <nav>
         <ul>
             <li><a href="index.php">الرئيسية</a></li>

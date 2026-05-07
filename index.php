@@ -9,7 +9,7 @@
 <body>
 
 <header>
-    <h1>مطعم بيشة</h1>
+    <h1 style="color: white;">مطعم بيشة</h1>
     <nav>
         <!-- Link to another page requirement -->
         <ul>
@@ -54,7 +54,7 @@
         
         <!-- Audio requirement -->
         <h3>مقطع صوتي</h3>
-        <audio controls>
+        <audio>
             <source src="voice.mp3" type="audio/mpeg">
         </audio><br><br>
 
